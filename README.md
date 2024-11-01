@@ -1,4 +1,4 @@
-# Ref ChatGPT:
+# Ref: Online Resources:
 Tic-Tac-Toe
 Overview
 Tic-Tac-Toe is a classic two-player game where players take turns marking a square in a 3x3 grid. The first player to align three of their marks horizontally, vertically, or diagonally wins the game. This implementation features a simple and responsive web application built with HTML, CSS, and JavaScript.
